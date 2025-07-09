@@ -1,0 +1,6 @@
+aiohttp
+botbuilder-core
+botbuilder-schema
+pandas
+openpyxl
+requests
